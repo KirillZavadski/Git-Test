@@ -4,7 +4,3 @@ add new line
 for  pull request
 
 new lines for git gui
-
-
-for git push and revert
-new lines
