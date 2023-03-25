@@ -8,3 +8,7 @@ new lines for git gui
 
 for git push and revert
 new lines
+
+
+
+|||text for new branch|||
