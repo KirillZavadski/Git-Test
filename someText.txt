@@ -17,3 +17,5 @@ some new content
 
 +++ +++ +++ +++ +++ +++
 --- --- --- --- --- ---
+
+ New lines for tags in git
